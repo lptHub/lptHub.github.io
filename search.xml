@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>字节跳动高频面试题</title>
+      <link href="2021/02/25/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+      <url>2021/02/25/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98/</url>
+      
+        <content type="html"><![CDATA[<p>最近在准备字节跳动的面试，发现有些题目Leetcode没找到。<br>本系列文章就是汇总那些在Leetcode上找不到的面试高频题，帮助大家更充分地应对面试。</p><p>先引用几篇面经</p><p>挑选一个区间，区间值为区间和乘以区间内最小的数的值，求区间值最大的区间（2021.1 字节跳动-国际化-前端）<br>无序数组，求一个值最大的区间，区间计算方案为：区间和 * 区间最小值（2020.09 字节跳动-电商-后端）<br>[3,1,6,4,5,2]，对于任意子序列可以计算一个X值，X=sum(subArray) * min(subArray)，求最大X（2020.07 字节跳动-商业化-前端）<br>全网搜了一波，发现这是18年头条自己出的校招笔试题，难怪没找到原题。<br>我们来一起学习下吧~</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 算法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> bytedance </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="2021/02/25/hexo-command/"/>
+      <url>2021/02/25/hexo-command/</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight txt"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">hexo new post &quot;article title&quot;，新建一篇文章。</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">hexo clean </span><br><span class="line"></span><br><span class="line">hexo g  # 生成博客网页文件</span><br><span class="line">hexo s  # 本地预览博客</span><br><span class="line">hexo d  # 上传网页文件到github</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>算法</title>
       <link href="2021/02/24/%E7%AE%97%E6%B3%95/"/>
       <url>2021/02/24/%E7%AE%97%E6%B3%95/</url>
